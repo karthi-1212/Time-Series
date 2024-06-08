@@ -1,2 +1,3 @@
 # Time-Series
-Explore Time Series functions and code snippets in this repository for efficient manipulation of time-based data. Gain insights and practical implementations of Time Series techniques to unlock the power of Time Series analysis.
+<br>
+<img src="https://github.com/karthi-1212/Time-Series/blob/main/TS_bg.png" alt="Times Series img" width="1000" height="400">
